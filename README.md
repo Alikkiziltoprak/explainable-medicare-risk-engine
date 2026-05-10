@@ -11,6 +11,12 @@
 
 ---
 
+## 🖥️ Dashboard Preview
+
+![Dashboard Preview](assets/dashboard_preview.png)
+
+---
+
 ## 📌 Overview
 
 This project builds an end-to-end **Medicare Risk Adjustment analytics framework** that supports health plan operations in three critical areas:
